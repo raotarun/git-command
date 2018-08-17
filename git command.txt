@@ -1,0 +1,12 @@
+git config --global user.name"raotarun"
+git config --global user.email"raosaab414@gmail.com"
+
+git init  
+
+git status  
+
+git add .A  
+
+git commit -m" "
+
+git push origin master
